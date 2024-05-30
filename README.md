@@ -48,10 +48,13 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 - Published webpage for stage 3: **https://taropie3sui.github.io/exquisite-corpse-stage-3/**
 
 **OverView**
+
 _I really enjoyed playing with the ‘a Second Scoop’ versions and wanted to create my own based on Emma’s design. Initially, I planned to integrate an API to generate different colors of ice cream scoops in my code, but due to a lack of free resources, I had to abandon that approach. Instead, I opted to create an Excel CSV file where I listed ‘color’ and ‘hex number’. In this part of the code, I received some help from ChatGPT to convert the hex numbers into their actual colors for display._
 
+
 **Reflection:**
-_I'm proud to introduce the csv document into the existing file. However I wish I could develop the code further by introducing more colors. _
+
+_I'm proud to introduce the csv document into the existing file. However I wish I could develop the code further by introducing more colors._ 
 
 ### 🟦 Stage 4
 - Name/Alias:
